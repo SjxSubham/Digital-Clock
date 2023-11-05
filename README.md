@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" height ="82" width="343" src="https://i.pinimg.com/originals/ac/3e/35/ac3e3541abec5cba9550d6be0b7c0815.jpg">
+/*<img align="right" alt="Coding" height ="82" width="343" src="https://i.pinimg.com/originals/ac/3e/35/ac3e3541abec5cba9550d6be0b7c0815.jpg">*/
 
 # Digital-Clock
 
